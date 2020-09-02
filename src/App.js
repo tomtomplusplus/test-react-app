@@ -6,6 +6,7 @@ function App() {
 
 
   console.log("Changes for GitHub practice");
+  console.log("Modification in the new_branch branch");
 
   return (
     <div className="App">
